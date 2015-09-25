@@ -1,0 +1,25 @@
+{
+  "name": "parked",
+  "version": "1.0.0",
+  "description": "Park easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snke07/parked.git"
+  },
+  "keywords": [
+    "parking"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snke07/parked/issues"
+  },
+  "homepage": "https://github.com/snke07/parked#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
